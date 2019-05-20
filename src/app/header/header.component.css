@@ -1,0 +1,31 @@
+:host{
+
+  top : 0; bottom : 0; left : 250px; right : 0;
+  position : fixed;
+  background-color: white;
+  border-bottom: 1px solid rgb(189, 189, 189);
+  height : 50px;
+  z-index: 99;
+  padding: 10px;
+}
+
+.hdr_container{
+  
+}
+
+.hdr_logo{
+ float : left;
+}
+
+
+
+.hdr_utils{
+ float : right;
+}
+
+.hdr_nav nav ul li, .hdr_utils nav ul li{
+  display : inline;
+}
+
+
+

@@ -1,0 +1,11 @@
+:host{
+    flex: 3;
+    
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+.container{
+    padding :10px;
+    
+}

@@ -1,0 +1,90 @@
+:host{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(3, 1, 22);
+    overflow-x: hidden;
+    
+    
+}
+.rule{
+    width: 80%;
+    color: #cccccc02;
+}
+.sb_nav_exp .active{
+    border-left: 2px solid white;
+    background-color: #cccccc30;
+}
+
+h3{
+    text-align: left;
+    padding-left: 20px;
+    color : white;
+    
+}
+h5{
+    color: #ccc;
+    font-weight: 100;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+
+.sb_nav_exp nav ul{
+    padding-left: 0px;
+}
+
+.sb_nav_exp nav ul li{
+    color : white;
+    list-style: none;
+    padding: 5px 15px 5px 15px;
+    font-size: 12px;
+}
+
+.sb_nav_exp nav ul li a{
+    text-decoration: none;
+}
+.sb_nav_exp nav ul li:hover{
+    background-color: #cccccc30;
+}
+
+.sb_nav_icon{
+    padding-right : 10px;
+}
+
+.sb_nav_text{
+    color : white;
+}
+.sb_nav_stat{
+    float : right;
+    color: #ccc;
+    padding-right: 10px;
+}
+
+.sb_nav_cohm nav ul{
+    padding-left: 0px;
+    
+}
+.sb_nav_cohm nav ul li{
+    list-style: none;
+    color : white;
+    padding: 5px 15px 5px 15px;
+    font-size: 12px;
+}
+
+
+.sb_nav_auth{
+    margin-top: 10px;
+}
+.sb_nav_auth nav ul{
+    padding-left: 0px;
+}
+
+.sb_nav_auth nav ul li{
+    list-style : none;
+    color : white;
+    padding: 5px 15px 5px 15px;
+    font-size: 12px;
+}
